@@ -37,6 +37,7 @@ const Component = (props = {}) => {
       ref={cesdk_container}
       style={{ width: '100vw', height: '100vh' }}
     ></div>
+    
     // docs-integrate-nextjs-2
   );
 };
